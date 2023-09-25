@@ -1,0 +1,19 @@
+.black {
+  background-color: black;
+}
+* {
+  box-sizing: border-box;
+}
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  text-align: center;
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  border-radius: 20%;
+}
